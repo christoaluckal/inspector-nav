@@ -1,0 +1,6 @@
+[submodule "octomap_server2"]
+	path = octomap_server2
+	url = git@github.com:azaher1215/octomap_server2.git
+[submodule "mola_lidar_odometry"]
+	path = mola_lidar_odometry
+	url = git@github.com:azaher1215/mola_lidar_odometry.git
